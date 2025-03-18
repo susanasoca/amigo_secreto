@@ -3,7 +3,7 @@
 ![Estado](https://img.shields.io/badge/Estado-Culminado-brightgreen)
 
 ## Descripción
-**Juego Amigo Secreto** es una aplicación web simple e interactiva que permite registrar nombres de participantes y realizar un sorteo aleatorio para elegir a un amigo secreto.
+**Juego del Amigo Secreto** es una aplicación web simple e interactiva que permite registrar nombres de participantes y realizar un sorteo aleatorio para elegir a un amigo secreto.
 
 ## Características
 - Validación de nombres.
